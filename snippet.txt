@@ -9,7 +9,6 @@ parameters:
     diskformat: thin
 
 
-
 ---
 
 kind: PersistentVolumeClaim
