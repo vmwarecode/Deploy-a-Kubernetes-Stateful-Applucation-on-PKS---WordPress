@@ -1,1 +1,0 @@
-# Deploy-a-Kubernetes-Stateful-Applucation-on-PKS---WordPress
